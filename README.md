@@ -38,6 +38,6 @@ Hay nodos en Neusa, Cogua y Tominé.
 
 | Integrante | Rol | Actividades y Contribuciones Clave |
 | :-- | :-- | :-- |
-| Carlos Andrés Vargas | | |
-| Karol Briyith Esquivel | | |
-| David Santiago Murcia | | |
+| Carlos Andrés Vargas | Diseñador de la topología | Diseñó la topología y los protocolos de rd y aplicación en Packet Tracer, verificando servidores, paneles de control y nodos. |
+| Karol Briyith Esquivel | Documentación | Realizó partes de la Wiki documentando procesos, troubleshooting y demás elementos dentro de la red. |
+| David Santiago Murcia | Supervisión funcionamiento de MQTT | Supervisó el proceso hecho en Packet Tracer, verificando fuentes para saber si se estaba realizando correctamente. |
